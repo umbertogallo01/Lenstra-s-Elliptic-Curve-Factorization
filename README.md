@@ -9,3 +9,5 @@ Lenstra's Elliptic Curve Method (ECM) is a sub-exponential time algorithm specif
 * **Elliptic Curve Arithmetic**: Implementation of point addition and point doubling operations over Z/nZ.
 * **Factorization Strategy**: Iterative point multiplication to identify factors via Greatest Common Divisor (GCD) computations.
 * **Exception Management**: Handling of cases where the algorithm identifies a factor or requires a change in the curve parameters.
+
+[Download the Full Report (PDF)](./Report.pdf)
